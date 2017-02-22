@@ -1,5 +1,5 @@
-# Tarea_04_XML_DTD
-##Tarea 3ª Unidad - LMSGI - 1º ASIX.
+# Tarea_04_XML_DTD_minify
+##Tarea 3ª Unidad - LMSGI - 1º ASIX. (con código minified)
 ###Creación de un examen con autocorrección (HTML, JavaScrip, XML y CSS; validación XML mediante DTD y/o XSD).
 
 ###Introducción.
